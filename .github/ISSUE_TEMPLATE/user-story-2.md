@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**As a** User
+**As a** User 
 **I need** [function]
 **So that** [benefit]
 
